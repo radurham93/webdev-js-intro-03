@@ -1,0 +1,4 @@
+1. JavaScript automatically converts the number to a string data type due to Type Coercion. The number and string data are concatenated due to the operator.
+2. The == operator could cause a bug when comparing a number data type and a number as a string data type. Like 1 == "1" would show as true.
+3. 
+4. You could use the modulus operator to check if a number is odd or even. 
